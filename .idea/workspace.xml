@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="237334b3-c144-43e6-9122-fcc734f24837" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Substep Feature" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XR4CJ7Fo4Fchni3jaiBjc96Lnm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\franciele.fagundes\CursoCucumber\src\test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\franciele.fagundes\CursoCucumber\src\test\resources" />
+      <recent name="C:\Users\franciele.fagundes\CursoCucumber\src\test\java\Teste" />
+      <recent name="C:\Users\franciele.fagundes\CursoCucumber\src\test\java" />
+      <recent name="C:\Users\franciele.fagundes\CursoCucumber\src\test" />
+      <recent name="C:\Users\franciele.fagundes\CursoCucumber\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Runner">
+    <configuration name="Feature: cursoCucumber (2)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/cursoCucumber.feature" />
+      <option name="GLUE" value="Teste" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="CursoCucumber" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: cursoCucumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: cursoCucumber (3)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Teste/cursoCucumber.feature" />
+      <option name="GLUE" value="Teste" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="CursoCucumber" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: cursoCucumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: cursoCucumber" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/cursoCucumber.feature" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="CursoCucumber" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: cursoCucumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Runner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CursoCucumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Runner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CursoCucumber" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Runner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Runner" />
+        <item itemvalue="JUnit.Runner (1)" />
+        <item itemvalue="JUnit.Runner (1)" />
+        <item itemvalue="Cucumber java.Feature: cursoCucumber (3)" />
+        <item itemvalue="Cucumber java.Feature: cursoCucumber" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="237334b3-c144-43e6-9122-fcc734f24837" name="Default Changelist" comment="" />
+      <created>1580995443973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580995443973</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="23" key="#Project_Structure" timestamp="1581000330744">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Project_Structure/-1366.-4.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1581000330744" />
+    <state x="280" y="20" key="#Runner_(1)" timestamp="1581006909826">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="280" y="20" key="#Runner_(1)/-1366.-4.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1581006909826" />
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580995684174">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1366.-4.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1580995684174" />
+    <state x="412" y="149" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1580995683327">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="149" key="#com.intellij.ide.util.TreeClassChooserDialog/-1366.-4.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1580995683327" />
+    <state x="479" y="250" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1581000367608">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="250" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-1366.-4.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1581000367608" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1580997174338">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/-1366.-4.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1580997174338" />
+    <state x="517" y="281" width="356" height="166" key="Github.CreateGistDialog" timestamp="1581008136539">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="281" width="356" height="166" key="Github.CreateGistDialog/-1366.-4.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1581008136539" />
+    <state width="1323" height="219" key="GridCell.Tab.0.bottom" timestamp="1581011503989">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="219" key="GridCell.Tab.0.bottom/-1366.-4.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1581011503989" />
+    <state width="1323" height="219" key="GridCell.Tab.0.center" timestamp="1581011503989">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="219" key="GridCell.Tab.0.center/-1366.-4.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1581011503989" />
+    <state width="1323" height="219" key="GridCell.Tab.0.left" timestamp="1581011503989">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="219" key="GridCell.Tab.0.left/-1366.-4.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1581011503989" />
+    <state width="1323" height="219" key="GridCell.Tab.0.right" timestamp="1581011503989">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="219" key="GridCell.Tab.0.right/-1366.-4.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1581011503989" />
+    <state x="213" y="20" key="Maven.ArtifactSearchDialog" timestamp="1580997504023">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="20" key="Maven.ArtifactSearchDialog/-1366.-4.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1580997504023" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1580995628778">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/-1366.-4.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1580995628778" />
+    <state x="435" y="286" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1580995734599">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="435" y="286" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/-1366.-4.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1580995734599" />
+  </component>
+</project>
